@@ -45,13 +45,3 @@ Nobody needed to read this. This is rather a lot. But this devlog is really just
 ## The End
 
 ...I'm choosing fun. 
-
-
-
-
-identify a source of data of interest, and why
-clean / wrangle it sufficiently to work with it, documenting the choices you make along the way, reflecting on how that is affecting what you might eventually find/do
-do some exploratory analysis or visualization of the material, contextualizing for us what this might mean.
-you will create a private or public Github repository for this work. 
-
-All materials that you create should be deposited. I recommend you keep daily notes or a log of what you are doing and why, including errors and so on - not for me to grade, but for me (or your peers) to help you troubleshoot.
